@@ -4,7 +4,7 @@
 #
 Name     : rubygem-devise
 Version  : 3.5.1
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/devise-3.5.1.gem
 Source0  : https://rubygems.org/downloads/devise-3.5.1.gem
 Summary  : No detailed summary available
